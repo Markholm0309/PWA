@@ -1,0 +1,5 @@
+{
+    "discord.enabled": true,
+    "FSharp.suggestGitignore": false,
+    "git.ignoreLimitWarning": true
+}
